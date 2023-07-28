@@ -1,7 +1,7 @@
 # Image-based-object-detection
 First YOLOV3 Image based object detection model 
 
-Please check out my first image based object detection model. I am newbie to ML and AI from textbook learning and through surfing multiple github repo 
+Please check out my first image based object detection model. I am novice to ML and AI from textbook learning and through surfing multiple github repo 
 and with some correctional help I have produced this. I appreciate any and all feedback and any guidance on what steps I could to enhance my knowledge
 in this field. 
 
